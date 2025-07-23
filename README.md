@@ -1,3 +1,16 @@
+
+# S-OS
+Core container ("cloud native" x bootable-container) image for my Machines.
+
+The base (erm, based?) system that my other containers will inherit from.
+
+---
+
+> Old Readme
+
+---
+
+
 # image-template
 
 # Purpose
